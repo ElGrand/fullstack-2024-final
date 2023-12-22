@@ -28,6 +28,8 @@ type Movie {
     actors: [Actor!]!
     reviews: [Review!]!
     review(id: ID): Review
+    
+    movieSearch(searchTerm: String): [Movie!]!
   }
 
   type Mutation {

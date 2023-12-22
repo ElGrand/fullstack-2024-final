@@ -50,7 +50,7 @@ const server = new ApolloServer({
 await server.start();
 
 // Configure Express middleware for handling GraphQL requests
-app.use('/graphql', 
+app.use('/graphql',
 cors<cors.CorsRequest>(),
 express.json(),
 expressMiddleware(server, {
