@@ -12,3 +12,6 @@ Brugerne vil kunne interagere med app'en ved at søge efter film, se detaljer om
 
 ### Database Design
 Vi planlægger at designe vores MongoDB-database med samlinger for film, tv-shows, instruktører, skuespillere og brugeroplysninger. Vi vil undersøge den optimale struktur for at håndtere relationer mellem disse entiteter.
+
+
+-----------------------------------------------------------------
