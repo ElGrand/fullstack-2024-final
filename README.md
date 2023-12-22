@@ -7,7 +7,7 @@ Brugerne vil kunne interagere med app'en ved at søge efter film, se detaljer om
 - **IDE:** Webstorm
 - **Database:** MongoDB
 - **Frameworks:**
-  - **Backend:** Express.js, Node.js
+  - **Backend:** Express.js, Node.js, TypeScript, Apollo Server, GraphQL
   - **Frontend:** React.js
 
 ### Database Design
