@@ -4,11 +4,11 @@ Vi har til hensigt at udvikle omfattende filmdatabase-app som en del af vores fu
 ### Projektbeskrivelse
 Brugerne vil kunne interagere med app'en ved at søge efter film, se detaljer om dem og eventuelt tilføje egne anmeldelser eller oprette favoritlister. Dette vil skabe en engagerende brugeroplevelse ud over blot informationssøgning.
 ### Teknologier
-•	IDE: Webstorm
-•	Database: MongoDB
-•	Frameworks:
-o	Backend: Express.js, Node.js
-o	Frontend: React.js
+- IDE: Webstorm
+- Database: MongoDB
+- Frameworks:
+    - Backend: Express.js, Node.js
+    - Frontend: React.js
 
 ### Database Design
 Vi planlægger at designe vores MongoDB-database med samlinger for film, tv-shows, instruktører, skuespillere og brugeroplysninger. Vi vil undersøge den optimale struktur for at håndtere relationer mellem disse entiteter.
